@@ -33,7 +33,10 @@
             "string": {}
         },
         "quantity": {
-            "number": {}
+            "int": {
+                "min": 0,
+                "max": 99
+            }
         }
     }
 }
